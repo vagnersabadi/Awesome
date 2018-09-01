@@ -10,8 +10,6 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 | Description| Ionic 3 | Ionic 4 |
 | :------------ | - | - |
 |Official Website|[Ionic 3](http://ionicframework.com)| |
-
-
 |[Documents](http://ionicframework.com/docs/)||
 |[Github Repository](https://github.com/ionic-team/ionic)||
 |[Blog](http://blog.ionic.io/)||
