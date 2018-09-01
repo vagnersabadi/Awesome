@@ -93,7 +93,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[Ionic 3](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)||How to Unit Test an Ionic 2 Application|
 |[Ionic 3](http://bradb.net/unit-testing-with-the-ionic-framework/)||Article|
 |[Ionic 3](http://forum.ionicframework.com/t/ionic-and-karma-unittest/8799)||Karma UnitTest|
-|[Ionic 3](http://appium.io/) an open source test automation framework||Appium|
+|[Ionic 3](http://appium.io/)||Appium - an open source test automation framework|
 |**Backend as a Service**||
 |[Ionic 3](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)||10 Minutes with Ionic 2: Calling an API|
 |[Ionic 3](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)||Firebase Example|
@@ -101,7 +101,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[Ionic 3](https://www.thepolyglotdeveloper.com/2016/01/make-http-requests-in-an-ionic-2-android-and-ios-app/)||Make HTTP Requests In An Ionic 2 Android And iOS App|
 |[Ionic 3](http://www.gajotres.net/ionic-2-making-rest-http-requests-like-a-pro/)||Making REST HTTP Requests Like a Pro|
 |[Ionic 3](http://www.htmlxprs.com/post/12/tutorial-on-using-parse-rest-api-and-ionic-framework-together) - Parse tutorial||Parse REST API tutorial|
-|[Ionic 3](https://github.com/jimrhoskins/angular-parse)||Parse Sample App|[Ionic 3](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) - using [angular-parse lib|
+|[Ionic 3](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate)||Parse Sample App - using [angular-parse lib|
 |[Ionic 3](http://www.nikola-breznjak.com/blog/ionic2/posting-data-from-ionic-2-app/)||Posting data from Ionic 2 app to a PHP server|
 |[Ionic 3](https://www.thepolyglotdeveloper.com/2014/12/syncing-data-firebase-using-ionic-framework/)||Syncing Data With Firebase|
 |[Ionic 3](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/)||Using Http to Fetch Remote Data from a Server in Ionic 2|
@@ -131,7 +131,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |**Open source apps and examples**||
 |[Ionic 3](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/)||Belgian Beer Explorer|
 |[Ionic 3](https://cnodejs.org)||CNodeJS|[Ionic 3](https://github.com/lanceli/cnodejs-ionic)|The mobile app of [https://cnodejs.org|
-|[Ionic 3](https://github.com/GrumpyWizards/Convergence) - A fun game||Convergence|
+|[Ionic 3](https://github.com/GrumpyWizards/Convergence)||Convergence - A fun game|
 |[Ionic 3](https://github.com/aggarwalankush/ionic2-push-base)||Ionic 2 Push Notification|
 |[Ionic 3](https://github.com/aggarwalankush/ionic2-mosum)||Ionic 2 Weather app|
 |Chat application made using ionic and socketio||Ionic Chat application|[Ionic 3](https://github.com/melvin0008/ionic-socketio-chat-client/)|
