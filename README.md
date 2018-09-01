@@ -23,6 +23,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)|||
 
 ##Tools
+
 | Link | Description|   |   |
 | :------------ | ------------- | - | - |  
 |[Ionic Cli](https://www.npmjs.com/package/ionic) - The Ionic command line utility|||
@@ -90,7 +91,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[How To Update Your Application Project and CLI](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/)|||
 |[How to Create a Data Model in Ionic 2](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/)|||
 |[Ionic 2 and External Libraries](http://mhartington.io/post/ionic2-external-libraries/)|||
-|[Understanding Zones and Change Detection in Ionic 2 & Angular 2] (http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)|||
+|[Understanding Zones and Change Detection](http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)|||
 |[Understanding Ionic 2: Pipe](http://mcgivery.com/understanding-ionic-2-pipe/)|||
 
 ## Theming
