@@ -8,7 +8,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 ## General
 
 | Description| Ionic 3 | Ionic 4 |
-| :- | - | - |
+| :- | :- | :- |
 |Official Website|[Ionic 3](http://ionicframework.com)| |
 |[Documents](http://ionicframework.com/docs/)||
 |[Github Repository](https://github.com/ionic-team/ionic)||
@@ -24,14 +24,14 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Links
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Ionic Adventures](https://github.com/juarezpaf/ionic-adventures)|List of interesting links||
 
 ## Tools
 
-| Link | Description|   |
-| :- | - | - |  
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |  
 |[Ionic Cli](https://www.npmjs.com/package/ionic)|The Ionic command line utility||
 |[Ionicons](http://ionicons.com/)|The premium icon font for Ionic||
 |[ngCordova](http://ngcordova.com/)|A collection of AngularJS extensions on top of the Cordova API||
@@ -44,8 +44,8 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Tutorials and articles
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Adding Auth to your Ionic app in 5 mins with Auth0](http://ionicframework.com/blog/authentication-in-ionic/)||
 |[Build your own chat app](http://melvin0008.github.io/blog/ionic-socketio-chat/)||
 |[Creating a Firebase Powered End to End Ionic Application](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)||
@@ -80,8 +80,8 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Ionic 2 Fundamentals
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)||
 |[Ionic 2 First Look Series: Your First Ionic 2 App Explained](http://www.joshmorony.com/ionic-2-first-look-series-your-first-ionic-2-app-explained/)||
 |[How to Convert an Ionic 1 Application to Ionic 2](http://www.joshmorony.com/how-to-convert-an-ionic-1-application-to-ionic-2/)||
@@ -96,15 +96,15 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Theming
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)||
 |[Use Font Awesome Icons In Your Ionic 2 Android And iOS App](https://www.thepolyglotdeveloper.com/2016/03/use-font-awesome-icons-in-your-ionic-2-android-and-ios-app/)||
 
 ## Authentication
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Add Touch ID Authentication To An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/03/add-touch-id-authentication-ionic-2-mobile-app/)||
 |[Authenticate Ionic 2 with WordPress](https://auth0.com/authenticate/ionic2/wordpress)||
 |[Handling a Simple User Authorization](http://www.gajotres.net/ionic-2-handling-a-simple-user-authorization/)||
@@ -115,8 +115,8 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Unit Testing
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Ionic 2 Unit Testing](http://lathonez.github.io/2016/ionic-2-unit-testing/)||
 |[How to Unit Test an Ionic 2 Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)||
 |[Article](http://bradb.net/unit-testing-with-the-ionic-framework/)||
@@ -125,8 +125,8 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Backend as a Service
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)||
 |[Firebase Example](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)||
 |[Integrating Firebase with AngularFire2 into AngularJS & Ionic2](http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2)||
@@ -141,14 +141,14 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## i18n & l10n
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)||
 
 ## Video Tutorials
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Ionic 2 Quickstart](https://www.udemy.com/ionic-2-quickstart/)||
 |[Build a Todo App from Scratch with Ionic 2](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)||
 |[Ionic 2: How to Use Google Maps & Geolocation](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/)||
@@ -156,30 +156,30 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Social login / oAuth
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[auth.io] (https://oauth.io/)|Free||
 |[auth0.com] (https://auth0.com/)|Free until 100 users||
 |[Facebook Integration](http://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html)||
 
 ## Push Notifications
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Sample App](http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/)||
 |[Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)||
 
 ## Database
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[SQLlite] (https://www.thepolyglotdeveloper.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)||
 |[Sync Data Using PouchDB](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/)||
 
 ## Components
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Date picker](https://github.com/rajeshwarpatlolla/ionic-datepicker)||
 |[How to Create a Sliding Delete Button for Lists](http://www.joshmorony.com/ionic-2-how-to-create-a-sliding-delete-button-for-lists/)||
 |[Creating a Sliding Introduction Component in Ionic 2](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/)||
@@ -187,8 +187,8 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Open source apps and examples
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Belgian Beer Explorer](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/)||
 |[CNodeJS](https://github.com/lanceli/cnodejs-ionic)|The mobile app of [https://cnodejs.org](https://cnodejs.org)||
 |[Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game||
@@ -212,8 +212,8 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Starter template
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[tabs](https://github.com/ionic-team/ionic-starter-tabs)||
 |[sidemenu](https://github.com/ionic-team/ionic-starter-sidemenu)||
 |[blank](https://github.com/ionic-team/ionic-starter-blank)||
@@ -222,8 +222,8 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Books
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Full Stack Mobile App with Ionic Framework](http://www.amazon.it/Stack-Mobile-Ionic-Framework-English-ebook/dp/B00QF1H380/ref=sr_1_1?ie=UTF8&qid=1423560887&sr=8-1&keywords=full+stack+ionic)||
 |[Getting Started with Ionic](http://www.amazon.it/Getting-Started-Ionic-Rahat-Khanna-ebook/dp/B016MWRF16/ref=sr_1_1?ie=UTF8&qid=1458563408&sr=8-1&keywords=Getting+Started+with+Ionic)||
 |[Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)||
@@ -234,8 +234,8 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Cordova plugins
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[10 Minutes with Ionic 2: Using the Camera with Ionic Native](http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/)||
 |[Add Barcode Scanning Functionality To Your Ionic 2 App](https://www.thepolyglotdeveloper.com/2016/02/add-barcode-scanning-functionality-to-your-ionic-2-app/)||
 |[Adding Background Geolocation to an Ionic 2 Application](http://www.joshmorony.com/adding-background-geolocation-to-an-ionic-2-application/)||
@@ -257,8 +257,8 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Customization
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Ionic material](https://github.com/zachsoft/Ionic-Material)||
 |[Header that shrinks](https://github.com/ionic-team/ionic-ion-header-shrink)||
 |[Accordion list](http://codepen.io/ionic/pen/uJkCz)||
@@ -275,8 +275,8 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 ## Misc
 
-| Link | Description|   |
-| :- | - | - |
+| Description| Ionic 3 | Ionic 4 |
+| :- | :- | :- |
 |[Internationalization](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)||
 |[Minifying source code](http://ionicframework.com/blog/minifying-your-source-code/)||
 |[Icons Subway](https://github.com/pixle/subway)||
