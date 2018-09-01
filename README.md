@@ -9,7 +9,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
-|Official Website|Ionic 3](http://ionicframework.com)| |
+|Official Website|[Ionic 3](http://ionicframework.com)| |
 |Documents|[Ionic 3](http://ionicframework.com/docs/)||
 |Github Repository|[Ionic 3](https://github.com/ionic-team/ionic)||
 |Blog|[Ionic 3](http://blog.ionic.io/)||
@@ -21,7 +21,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Community Forum|[Ionic 3](http://forum.ionicframework.com/)||
 |Ionic IRC|[Ionic 3](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)||
 |Ionic Youtube Channel|[Ionic 3](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)||
-|<h1>Links</h1>||
+|**Links**||
 |Ionic Adventures|[Ionic 3](https://github.com/juarezpaf/ionic-adventures)|List of interesting links||
 |<h1>Tools</h1>|| 
 |Ionic Cli|[Ionic 3](https://www.npmjs.com/package/ionic)|The Ionic command line utility||
