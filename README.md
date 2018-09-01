@@ -137,7 +137,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[Posting data from Ionic 2 app to a PHP server](http://www.nikola-breznjak.com/blog/ionic2/posting-data-from-ionic-2-app/)|||
 |[Syncing Data With Firebase](https://www.thepolyglotdeveloper.com/2014/12/syncing-data-firebase-using-ionic-framework/)|||
 |[Using Http to Fetch Remote Data from a Server in Ionic 2](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/)|||
-|[Windows Azure Mobile Services Backend](https://github.com/aidancasey/Azure-Ionic-App) - sample todo list app storing data in windows azure|||
+|[Windows Azure Mobile Services Backend](https://github.com/aidancasey/Azure-Ionic-App)|Sample todo list app storing data in windows azure||
 
 ## i18n & l10n
 
@@ -158,8 +158,8 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 | Link | Description|   |   |
 | :------------ | ------------- | - | - |
-|[auth.io] (https://oauth.io/) Free|||
-|[auth0.com] (https://auth0.com/) Free until 100 users|||
+|[auth.io] (https://oauth.io/)|Free||
+|[auth0.com] (https://auth0.com/)|Free until 100 users||
 |[Facebook Integration](http://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html)|||
 
 ## Push Notifications
@@ -190,11 +190,11 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 | Link | Description|   |   |
 | :------------ | ------------- | - | - |
 |[Belgian Beer Explorer](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/)|||
-|[CNodeJS](https://github.com/lanceli/cnodejs-ionic) - The mobile app of [https://cnodejs.org](https://cnodejs.org)|||
+|[CNodeJS](https://github.com/lanceli/cnodejs-ionic)|The mobile app of [https://cnodejs.org](https://cnodejs.org)||
 |[Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game|||
 |[Ionic 2 Push Notification](https://github.com/aggarwalankush/ionic2-push-base)|||
 |[Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)|||
-|[Ionic Chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application made using ionic and socketio|||
+|[Ionic Chat application](https://github.com/melvin0008/ionic-socketio-chat-client/)|Chat application made using ionic and socketio||
 |[Ionic Conference App based on Lanyrd API](https://github.com/ionic2blueprints/conference-app)|||
 |[Ionic Conference App](https://github.com/ionic-team/ionic-conference-app)|||
 |[Ionic Ecommerce App](https://github.com/ionic2blueprints/ionic2-marketcloud)|||
@@ -206,8 +206,8 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[Ionic Weather App](https://github.com/ionic-team/ionic-weather)|||
 |[Ionic Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client)|||
 |[IonicRealty](https://github.com/ccoenraets/ionic2-realty)|||
-|[Pocket Lines · Mallorca](https://github.com/gsabater/Pocket-Lines) - Transports app for Palma de Mallorca|||
-|[Protokit](https://github.com/Alexintosh/Protokit) - A prototype kit|||
+|[Pocket Lines · Mallorca](https://github.com/gsabater/Pocket-Lines)|Transports app for Palma de Mallorca||
+|[Protokit](https://github.com/Alexintosh/Protokit)|A prototype kit||
 |[Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)|||
 
 ## Starter template
