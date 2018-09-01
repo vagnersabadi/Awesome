@@ -100,7 +100,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[v3](http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2)||Integrating Firebase with AngularFire2 into AngularJS & Ionic2|
 |[v3](https://www.thepolyglotdeveloper.com/2016/01/make-http-requests-in-an-ionic-2-android-and-ios-app/)||Make HTTP Requests In An Ionic 2 Android And iOS App|
 |[v3](http://www.gajotres.net/ionic-2-making-rest-http-requests-like-a-pro/)||Making REST HTTP Requests Like a Pro|
-|[v3](http://www.htmlxprs.com/post/12/tutorial-on-using-parse-rest-api-and-ionic-framework-together) - Parse tutorial||Parse REST API tutorial|
+|[v3](http://www.htmlxprs.com/post/12/tutorial-on-using-parse-rest-api-and-ionic-framework-together)||Parse REST API tutorial|
 |[v3](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate)||Parse Sample App - using [angular-parse lib|
 |[v3](http://www.nikola-breznjak.com/blog/ionic2/posting-data-from-ionic-2-app/)||Posting data from Ionic 2 app to a PHP server|
 |[v3](https://www.thepolyglotdeveloper.com/2014/12/syncing-data-firebase-using-ionic-framework/)||Syncing Data With Firebase|
@@ -121,7 +121,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[v3](http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/)||Sample App|
 |[v3](https://github.com/hollyschinsky/PushNotificationSample)||Push Notification Sample App|
 |**Database**||
-|SQLlite] (https://www.thepolyglotdeveloper.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)||
+|[v3](https://www.thepolyglotdeveloper.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)||SQLlite - Deploy App with prefilled Database|
 |[v3](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/)||Sync Data Using PouchDB|
 |**Components**||
 |[v3](https://github.com/rajeshwarpatlolla/ionic-datepicker)||Date picker|
