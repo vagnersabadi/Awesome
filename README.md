@@ -171,12 +171,12 @@
 * [Protokit](https://github.com/Alexintosh/Protokit) - A prototype kit
 * [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
   
-* Starter template
-  * [tabs](https://github.com/ionic-team/ionic-starter-tabs)
-  * [sidemenu](https://github.com/ionic-team/ionic-starter-sidemenu)
-  * [blank](https://github.com/ionic-team/ionic-starter-blank)
-  * [salesforce](https://github.com/ionic-team/ionic-starter-salesforce)
-  * [maps](https://github.com/ionic-team/ionic-starter-maps)
+# #Starter template
+* [tabs](https://github.com/ionic-team/ionic-starter-tabs)
+* [sidemenu](https://github.com/ionic-team/ionic-starter-sidemenu)
+* [blank](https://github.com/ionic-team/ionic-starter-blank)
+* [salesforce](https://github.com/ionic-team/ionic-starter-salesforce)
+* [maps](https://github.com/ionic-team/ionic-starter-maps)
  
 ## Books
 * [Full Stack Mobile App with Ionic Framework](http://www.amazon.it/Stack-Mobile-Ionic-Framework-English-ebook/dp/B00QF1H380/ref=sr_1_1?ie=UTF8&qid=1423560887&sr=8-1&keywords=full+stack+ionic)
