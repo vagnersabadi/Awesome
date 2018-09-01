@@ -19,7 +19,7 @@
 |[v3](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)||[Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)||
 |[v3](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)||[Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)||
 |**Links**||**Links**
-[v3](https://github.com/juarezpaf/ionic-adventures)| |List of interesting links||Ionic Adventures|
+[v3](https://github.com/juarezpaf/ionic-adventures)| |[List of interesting links - Ionic Adventures](https://github.com/juarezpaf/ionic-adventures)|
 |**Tools**|| 
 |[v3](https://www.npmjs.com/package/ionic)||[The Ionic command line utility](https://www.npmjs.com/package/ionic)|||
 |[v3](http://ionicons.com/)||[Ionicons - The premium icon font for Ionic](http://ionicons.com/)|||
@@ -98,7 +98,7 @@
 |[v3](https://www.thepolyglotdeveloper.com/2016/01/make-http-requests-in-an-ionic-2-android-and-ios-app/)||[Make HTTP Requests In An Ionic 2 Android And iOS App](https://www.thepolyglotdeveloper.com/2016/01/make-http-requests-in-an-ionic-2-android-and-ios-app/)||
 |[v3](http://www.gajotres.net/ionic-2-making-rest-http-requests-like-a-pro/)||[Making REST HTTP Requests Like a Pro](http://www.gajotres.net/ionic-2-making-rest-http-requests-like-a-pro/)||
 |[v3](http://www.htmlxprs.com/post/12/tutorial-on-using-parse-rest-api-and-ionic-framework-together)||[Parse REST API tutorial](http://www.htmlxprs.com/post/12/tutorial-on-using-parse-rest-api-and-ionic-framework-together)||
-|[v3](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate)||[Parse Sample App - using [angular-parse lib](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate)||
+|[v3](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate)||[Parse Sample App - using angular-parse lib](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate)||
 |[v3](http://www.nikola-breznjak.com/blog/ionic2/posting-data-from-ionic-2-app/)||[Posting data from Ionic 2 app to a PHP server](http://www.nikola-breznjak.com/blog/ionic2/posting-data-from-ionic-2-app/)||
 |[v3](https://www.thepolyglotdeveloper.com/2014/12/syncing-data-firebase-using-ionic-framework/)||[Syncing Data With Firebase](https://www.thepolyglotdeveloper.com/2014/12/syncing-data-firebase-using-ionic-framework/)||
 |[v3](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/)||[Using Http to Fetch Remote Data from a Server in Ionic 2](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/)||
@@ -198,6 +198,5 @@
 |[v3](https://github.com/pixle/subway)||[Icons Subway](https://github.com/pixle/subway)||
 |[v3](http://angular-translate.github.io/)||[Angular translate](http://angular-translate.github.io/)||
 |[v3](https://parall.ax/products/jspdf)||[jsPDF - Generate pdf in javascript](https://parall.ax/products/jspdf)|||
-
 |**Contribute**||
-Contributions welcome! Read the [contribution guidelines|[v3](CONTRIBUTING.md) first.||
+|-|-|Contributions welcome!<br>Read the contribution guidelines [CONTRIBUTING.md](CONTRIBUTING.md) first.|
