@@ -6,9 +6,9 @@
 View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repository
 
 
-| Ionic 3 | Ionic 4 | Description |
+| 3 | 4 | Description |
 | :- | :- | :- |
-|**General**||
+| Ionic 3 | Ionic 4 | **General**|
 |[v3](http://ionicframework.com)|[v4](http://ionicframework.com) |Official Website|
 |[v3](http://ionicframework.com/docs/)||Documents|
 |[v3](https://github.com/ionic-team/ionic)||Github Repository|
@@ -21,7 +21,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[v3](http://forum.ionicframework.com/)||Community Forum|
 |[v3](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)||Ionic IRC|
 |[v3](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)||Ionic Youtube Channel|
-|**Links**||
+|**Links**||**Links**
 [v3](https://github.com/juarezpaf/ionic-adventures)| |List of interesting links||Ionic Adventures|
 |**Tools**|| 
 |[v3](https://www.npmjs.com/package/ionic)||The Ionic command line utility||
@@ -33,7 +33,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[v3](https://github.com/imsingh/ionic-sublime-plugin)||Sublime text Plugin|
 |[v3](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)||Ionic2-vscode|
 |[v3](https://github.com/akz92/vim-ionic2)||Vim-ionic2|
-|**Tutorials and articles**||
+|**Tutorials**|**Articles**||
 |[v3](http://ionicframework.com/blog/authentication-in-ionic/)||Adding Auth to your Ionic app in 5 mins with Auth0|
 |[v3](http://melvin0008.github.io/blog/ionic-socketio-chat/)||Build your own chat app|
 |[v3](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)||Creating a Firebase Powered End to End Ionic Application|
@@ -106,16 +106,15 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[v3](https://www.thepolyglotdeveloper.com/2014/12/syncing-data-firebase-using-ionic-framework/)||Syncing Data With Firebase|
 |[v3](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/)||Using Http to Fetch Remote Data from a Server in Ionic 2|
 |[v3](https://github.com/aidancasey/Azure-Ionic-App)||Sample todo list app storing data in windows azure||Windows Azure Mobile Services Backend|
-|**i18n & l10n**||
+|**i18n**|**l10n**||
 |[v3](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)||Internationalize and Localize Your App With Angular 2|
 |**Video Tutorials**||
 |[v3](https://www.udemy.com/ionic-2-quickstart/)||Ionic 2 Quickstart|
 |[v3](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)||Build a Todo App from Scratch with Ionic 2|
 |[v3](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/)||Ionic 2: How to Use Google Maps & Geolocation|
 |[v3](http://courses.devdactic.com/courses/ionic-2-in-one-hour?product_id=104238)||Ionic 2 in One Hour|
-|**Social login / oAuth**||
-|Free||auth.io] (https://oauth.io/)|
-|Free until 100 users||auth0.com] (https://auth0.com/)|
+|**Social login**|**oAuth**||
+|[v3](https://oauth.io/)||auth.io|
 |[v3](http://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html)||Facebook Integration|
 |**Push Notifications**||
 |[v3](http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/)||Sample App|
@@ -128,7 +127,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[v3](http://www.joshmorony.com/ionic-2-how-to-create-a-sliding-delete-button-for-lists/)||How to Create a Sliding Delete Button for Lists|
 |[v3](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/)||Creating a Sliding Introduction Component in Ionic 2|
 |[v3](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/)||How to Create a Custom Loading Component in Ionic 2|
-|**Open source apps and examples**||
+|**Apps**|**Examples**||
 |[v3](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/)||Belgian Beer Explorer|
 |[v3](https://cnodejs.org)||CNodeJS|[v3](https://github.com/lanceli/cnodejs-ionic)|The mobile app of [https://cnodejs.org|
 |[v3](https://github.com/GrumpyWizards/Convergence)||Convergence - A fun game|
@@ -149,7 +148,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[v3](https://github.com/gsabater/Pocket-Lines)||Transports app for Palma de Mallorca|
 |[v3](https://github.com/Alexintosh/Protokit)||A prototype kit|
 |[v3](https://github.com/hollyschinsky/PushNotificationSample)||Push Notification Sample App|
-|**Starter template**||
+|**Starter**|**Template**||
 |[v3](https://github.com/ionic-team/ionic-starter-tabs)||tabs|
 |[v3](https://github.com/ionic-team/ionic-starter-sidemenu)||sidemenu|
 |[v3](https://github.com/ionic-team/ionic-starter-blank)||blank|
@@ -163,7 +162,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[v3](http://www.manning.com/wilken/?a_aid=ionicinaction)||Ionic in Action|
 |[v3](http://www.manning.com/wilken/?a_aid=ionicinaction)||Ionic in Action|
 |[v3](http://www.amazon.it/Learning-Ionic-Arvind-Ravulavaru/dp/1783552603/ref=sr_1_1?ie=UTF8&qid=1458563232&sr=8-1&keywords=Learning+Ionic)||learning ionic|
-|**Cordova plugins**||
+|**Cordova**|**Plugins**||
 |[v3](http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/)||10 Minutes with Ionic 2: Using the Camera with Ionic Native|
 |[v3](https://www.thepolyglotdeveloper.com/2016/02/add-barcode-scanning-functionality-to-your-ionic-2-app/)||Add Barcode Scanning Functionality To Your Ionic 2 App|
 |[v3](http://www.joshmorony.com/adding-background-geolocation-to-an-ionic-2-application/)||Adding Background Geolocation to an Ionic 2 Application|
