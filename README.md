@@ -3,9 +3,6 @@
 
 > A collection of awesome [IonicFramework](http://ionicframework.com) resources and shiny things.
 
-View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repository
-
-
 | Ionic 3 | Ionic 4 | Description |
 | :- | :- | :- |
 | **General** |**General**||
