@@ -65,11 +65,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Routing|[Ionic 3](http://ccoenraets.github.io/ionic-tutorial/angular-ui-router.html)||
 |Building the Project|[Ionic 3](http://ccoenraets.github.io/ionic-tutorial/build-ionic-project.html)||
 |Facebook Integration|[Ionic 3](http://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html)||
-
 |<h1>Ionic 2 Fundamentals</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |Beginners Guide to Getting Started with Ionic 2|[Ionic 3](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)||
 |Ionic 2 First Look Series: Your First Ionic 2 App Explained|[Ionic 3](http://www.joshmorony.com/ionic-2-first-look-series-your-first-ionic-2-app-explained/)||
 |How to Convert an Ionic 1 Application to Ionic 2|[Ionic 3](http://www.joshmorony.com/how-to-convert-an-ionic-1-application-to-ionic-2/)||
@@ -81,18 +77,10 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Ionic 2 and External Libraries|[Ionic 3](http://mhartington.io/post/ionic2-external-libraries/)||
 |Understanding Zones and Change Detection|[Ionic 3](http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)||
 |Understanding Ionic 2: Pipe|[Ionic 3](http://mcgivery.com/understanding-ionic-2-pipe/)||
-
 |<h1>Theming</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |A Guide to Styling an Ionic 2 Application|[Ionic 3](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)||
 |Use Font Awesome Icons In Your Ionic 2 Android And iOS App|[Ionic 3](https://www.thepolyglotdeveloper.com/2016/03/use-font-awesome-icons-in-your-ionic-2-android-and-ios-app/)||
-
 |<h1>Authentication</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |Add Touch ID Authentication To An Ionic 2 Mobile App|[Ionic 3](https://www.thepolyglotdeveloper.com/2016/03/add-touch-id-authentication-ionic-2-mobile-app/)||
 |Authenticate Ionic 2 with WordPress|[Ionic 3](https://auth0.com/authenticate/ionic2/wordpress)||
 |Handling a Simple User Authorization|[Ionic 3](http://www.gajotres.net/ionic-2-handling-a-simple-user-authorization/)||
@@ -100,21 +88,13 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Satellizer|[Ionic 3](https://github.com/sahat/satellizer) Token-based AngularJS Authentication||
 |Successful OAuth Social Login with Firebase|[Ionic 3](http://www.gajotres.net/ionic-2-succesfull-oauth-social-login-with-firebase/)||
 |Using An Oauth 2.0 Service Within An Ionic 2 Mobile App|[Ionic 3](https://www.thepolyglotdeveloper.com/2016/01/using-an-oauth-2-0-service-within-an-ionic-2-mobile-app/)||
-
-|<h1>Unit Testing</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
+|<h1>Unit Testing</h1>|
 |Ionic 2 Unit Testing|[Ionic 3](http://lathonez.github.io/2016/ionic-2-unit-testing/)||
 |How to Unit Test an Ionic 2 Application|[Ionic 3](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)||
 |Article|[Ionic 3](http://bradb.net/unit-testing-with-the-ionic-framework/)||
 |Karma UnitTest|[Ionic 3](http://forum.ionicframework.com/t/ionic-and-karma-unittest/8799)||
 |Appium|[Ionic 3](http://appium.io/) an open source test automation framework||
-
 |<h1>Backend as a Service</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |10 Minutes with Ionic 2: Calling an API|[Ionic 3](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)||
 |Firebase Example|[Ionic 3](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)||
 |Integrating Firebase with AngularFire2 into AngularJS & Ionic2|[Ionic 3](http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2)||
@@ -126,57 +106,29 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Syncing Data With Firebase|[Ionic 3](https://www.thepolyglotdeveloper.com/2014/12/syncing-data-firebase-using-ionic-framework/)||
 |Using Http to Fetch Remote Data from a Server in Ionic 2|[Ionic 3](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/)||
 |Windows Azure Mobile Services Backend|[Ionic 3](https://github.com/aidancasey/Azure-Ionic-App)|Sample todo list app storing data in windows azure||
-
 |<h1>i18n & l10n</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |Internationalize and Localize Your App With Angular 2|[Ionic 3](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)||
-
 |<h1>Video Tutorials</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |Ionic 2 Quickstart|[Ionic 3](https://www.udemy.com/ionic-2-quickstart/)||
 |Build a Todo App from Scratch with Ionic 2|[Ionic 3](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)||
 |Ionic 2: How to Use Google Maps & Geolocation|[Ionic 3](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/)||
 |Ionic 2 in One Hour|[Ionic 3](http://courses.devdactic.com/courses/ionic-2-in-one-hour?product_id=104238)||
-
 |<h1>Social login / oAuth</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |auth.io] (https://oauth.io/)|Free||
 |auth0.com] (https://auth0.com/)|Free until 100 users||
 |Facebook Integration|[Ionic 3](http://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html)||
-
 |<h1>Push Notifications</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |Sample App|[Ionic 3](http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/)||
 |Push Notification Sample App|[Ionic 3](https://github.com/hollyschinsky/PushNotificationSample)||
-
 |<h1>Database</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |SQLlite] (https://www.thepolyglotdeveloper.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)||
 |Sync Data Using PouchDB|[Ionic 3](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/)||
-
 |<h1>Components</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |Date picker|[Ionic 3](https://github.com/rajeshwarpatlolla/ionic-datepicker)||
 |How to Create a Sliding Delete Button for Lists|[Ionic 3](http://www.joshmorony.com/ionic-2-how-to-create-a-sliding-delete-button-for-lists/)||
 |Creating a Sliding Introduction Component in Ionic 2|[Ionic 3](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/)||
 |How to Create a Custom Loading Component in Ionic 2|[Ionic 3](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/)||
-
 |<h1>Open source apps and examples</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |Belgian Beer Explorer|[Ionic 3](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/)||
 |CNodeJS|[Ionic 3](https://github.com/lanceli/cnodejs-ionic)|The mobile app of [https://cnodejs.org|[Ionic 3](https://cnodejs.org)||
 |Convergence|[Ionic 3](https://github.com/GrumpyWizards/Convergence) - A fun game||
@@ -197,21 +149,13 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Pocket Lines · Mallorca|[Ionic 3](https://github.com/gsabater/Pocket-Lines)|Transports app for Palma de Mallorca||
 |Protokit|[Ionic 3](https://github.com/Alexintosh/Protokit)|A prototype kit||
 |Push Notification Sample App|[Ionic 3](https://github.com/hollyschinsky/PushNotificationSample)||
-
 |<h1>Starter template</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |tabs|[Ionic 3](https://github.com/ionic-team/ionic-starter-tabs)||
 |sidemenu|[Ionic 3](https://github.com/ionic-team/ionic-starter-sidemenu)||
 |blank|[Ionic 3](https://github.com/ionic-team/ionic-starter-blank)||
 |salesforce|[Ionic 3](https://github.com/ionic-team/ionic-starter-salesforce)||
 |maps|[Ionic 3](https://github.com/ionic-team/ionic-starter-maps)||
-
 |<h1>Books</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |Full Stack Mobile App with Ionic Framework|[Ionic 3](http://www.amazon.it/Stack-Mobile-Ionic-Framework-English-ebook/dp/B00QF1H380/ref=sr_1_1?ie=UTF8&qid=1423560887&sr=8-1&keywords=full+stack+ionic)||
 |Getting Started with Ionic|[Ionic 3](http://www.amazon.it/Getting-Started-Ionic-Rahat-Khanna-ebook/dp/B016MWRF16/ref=sr_1_1?ie=UTF8&qid=1458563408&sr=8-1&keywords=Getting+Started+with+Ionic)||
 |Hybrid Mobile Development with Ionic|[Ionic 3](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)||
@@ -242,11 +186,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Use Google Analytics In An Ionic 2 Android And iOS App|[Ionic 3](https://www.thepolyglotdeveloper.com/2016/03/use-google-analytics-in-an-ionic-2-android-and-ios-app/)||
 |Use SQLite In Ionic 2 Instead Of Local Storage|[Ionic 3](https://www.thepolyglotdeveloper.com/2015/12/use-sqlite-in-ionic-2-instead-of-local-storage/)||
 |Using Cordova Plugins in Ionic 2 with Ionic Native|[Ionic 3](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/)||
-
 |<h1>Customization</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |Ionic material|[Ionic 3](https://github.com/zachsoft/Ionic-Material)||
 |Header that shrinks|[Ionic 3](https://github.com/ionic-team/ionic-ion-header-shrink)||
 |Accordion list|[Ionic 3](http://codepen.io/ionic/pen/uJkCz)||
@@ -260,11 +200,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |32 Ionic Modal Animations|[Ionic 3](https://github.com/kevincobain2000/ionic-animated-modal)||
 |32 Ionic Popup Animations|[Ionic 3](https://github.com/kevincobain2000/ionic-animated-popup)||
 |Ionic Photo Browser|[Ionic 3](https://github.com/kevincobain2000/ionic-photo-browser)||
-
 |<h1>Misc</h1>||
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
 |Internationalization|[Ionic 3](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)||
 |Minifying source code|[Ionic 3](http://ionicframework.com/blog/minifying-your-source-code/)||
 |Icons Subway|[Ionic 3](https://github.com/pixle/subway)||
