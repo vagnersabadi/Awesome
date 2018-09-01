@@ -9,7 +9,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 | Ionic 3 | Ionic 4 | Description |
 | :- | :- | :- |
 |**General**||
-|[v3](http://ionicframework.com)| |Official Website|
+|[v3](http://ionicframework.com)|[v4](http://ionicframework.com) |Official Website|
 |[v3](http://ionicframework.com/docs/)||Documents|
 |[v3](https://github.com/ionic-team/ionic)||Github Repository|
 |[v3](http://blog.ionic.io/)||Blog|
@@ -134,7 +134,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[v3](https://github.com/GrumpyWizards/Convergence)||Convergence - A fun game|
 |[v3](https://github.com/aggarwalankush/ionic2-push-base)||Ionic 2 Push Notification|
 |[v3](https://github.com/aggarwalankush/ionic2-mosum)||Ionic 2 Weather app|
-|Chat application made using ionic and socketio||Ionic Chat application|[v3](https://github.com/melvin0008/ionic-socketio-chat-client/)|
+|[v3](https://github.com/melvin0008/ionic-socketio-chat-client/)||Chat application made using ionic and socketio||Ionic Chat application|
 |[v3](https://github.com/ionic2blueprints/conference-app)||Ionic Conference App based on Lanyrd API|
 |[v3](https://github.com/ionic-team/ionic-conference-app)||Ionic Conference App|
 |[v3](https://github.com/ionic2blueprints/ionic2-marketcloud)||Ionic Ecommerce App|
@@ -145,9 +145,9 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[v3](https://github.com/ionic2blueprints/ionic2-stockmarket)||Ionic Stock Tracking App|
 |[v3](https://github.com/ionic-team/ionic-weather)||Ionic Weather App|
 |[v3](https://github.com/ionic2blueprints/ionic2-wp-client)||Ionic Wordpress Client|
-|[v3](https://github.com/ccoenraets/ionic2-realty)||IonicRealty|
-|Transports app for Palma de Mallorca||Pocket Lines · Mallorca|[v3](https://github.com/gsabater/Pocket-Lines)|
-|A prototype kit||Protokit|[v3](https://github.com/Alexintosh/Protokit)|
+|[v3](https://github.com/ccoenraets/ionic2-realty)||Ionic 2 Realty|
+|[v3](https://github.com/gsabater/Pocket-Lines)||Transports app for Palma de Mallorca|
+|[v3](https://github.com/Alexintosh/Protokit)||A prototype kit|
 |[v3](https://github.com/hollyschinsky/PushNotificationSample)||Push Notification Sample App|
 |**Starter template**||
 |[v3](https://github.com/ionic-team/ionic-starter-tabs)||tabs|
