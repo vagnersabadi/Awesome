@@ -1,14 +1,13 @@
 
-# Awesome Ionic 2 [![Awesome|[Ionic 3](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)|[Ionic 3](https://github.com/sindresorhus/awesome)
+# Awesome Ionic
 
 View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this repository
 
 > A collection of awesome [IonicFramework|[Ionic 3](http://ionicframework.com) resources and shiny things.
 
-|**General**||
-
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
+|**General**||
 |Official Website|[Ionic 3](http://ionicframework.com)| |
 |Documents|[Ionic 3](http://ionicframework.com/docs/)||
 |Github Repository|[Ionic 3](https://github.com/ionic-team/ionic)||
