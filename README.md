@@ -9,8 +9,6 @@
 | First Header  | Second Header |   |   |
 | ------------- | ------------- | - | - |
 | Content Cell  | Content Cell  |   |   |
-| Content Cell  | Content Cell  |   |   |
-
 |[Official Website](http://ionicframework.com)| | |
 |[Documents](http://ionicframework.com/docs/)|||
 |[Github Repository](https://github.com/ionic-team/ionic)|||
