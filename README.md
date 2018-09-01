@@ -259,12 +259,12 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 | Link | Description|   |   |
 | :------------ | ------------- | - | - |
-|[Ionic material] (https://github.com/zachsoft/Ionic-Material)|||
+|[Ionic material](https://github.com/zachsoft/Ionic-Material)|||
 |[Header that shrinks](https://github.com/ionic-team/ionic-ion-header-shrink)|||
 |[Accordion list](http://codepen.io/ionic/pen/uJkCz)|||
 |[Material design](https://material.angularjs.org/)|||
 |[Angular Material codepen example] (http://codepen.io/itamarCohen/pen/gbgxaJ)|||
-|[autoListDivider](https://github.com/andrewmcgivery/ionic-ion-autoListDivider) - automatically adding in list dividers for an ng-repeat.|||
+|[autoListDivider](https://github.com/andrewmcgivery/ionic-ion-autoListDivider)|Automatically adding in list dividers for an ng-repeat.||
 |[Tinder style swipe Cards] (http://devdactic.com/optimize-tinder-cards/)|||
 |[Move.js CSS3 Animation framework](https://github.com/visionmedia/move.js)|||
 |[Ionic Tabbed Slidebox](https://github.com/saravmajestic/ionic/tree/master/tabbedSlideBox)|||
@@ -281,7 +281,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[Minifying source code](http://ionicframework.com/blog/minifying-your-source-code/)|||
 |[Icons Subway](https://github.com/pixle/subway)|||
 |[Angular translate](http://angular-translate.github.io/)|||
-|[jsPDF](https://parall.ax/products/jspdf) Generate pdf in javascript|||
+|[jsPDF](https://parall.ax/products/jspdf)|Generate pdf in javascript||
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.|||
