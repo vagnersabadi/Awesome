@@ -1,10 +1,15 @@
-# Awesome Ionic
+
+# Awesome Ionic 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A collection of awesome [IonicFramework](http://ionicframework.com) resources and shiny things.
+> "Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies."
+
+## Current Ionic 2 version: 
+[![npm version](https://badge.fury.io/js/ionic-framework.svg)](https://badge.fury.io/js/ionic-framework)
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-## https://github.com/ionic-toolbox/awesome-ionic_lanceli.git
-## 
+* https://github.com/ionic-toolbox/awesome-ionic_lanceli.git
+ 
 
 ## General
 
@@ -20,15 +25,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tools
 
-* [Ionic Cli](https://www.npmjs.com/package/ionic) ## The Ionic command line utility
-* [Ionicons](http://ionicons.com/) ## The premium icon font for Ionic
-* [ngCordova](http://ngcordova.com/) ## A collection of AngularJS extensions on top of the Cordova API
-* [Ionic View](http://apps.ionic.io/view-app) ## Test and share your ionic app on iPhone without needing a Mac
-* [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) ## Yeoman generator for Ionic
+* [Ionic Cli](https://www.npmjs.com/package/ionic) - The Ionic command line utility
+* [Ionicons](http://ionicons.com/) - The premium icon font for Ionic
+* [ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API
+* [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone without needing a Mac
+* [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for Ionic
 
 ## Links
 
-* [Ionic Adventures](https://github.com/juarezpaf/ionic-adventures) ## List of interesting links
+* [Ionic Adventures](https://github.com/juarezpaf/ionic-adventures) - List of interesting links
 
 ## Tutorials and articles
 
@@ -62,38 +67,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Ionic Hacker News](https://github.com/driftyco/front-page)
 * [Ionic Weather App](https://github.com/driftyco/ionic-weather)
 * [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
-* [Ionic Chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) ## Chat application made using ionic and socketio
+* [Ionic Chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application made using ionic and socketio
 * [Ionic 2 Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 
 ## Open source projects
 
-* [CNodeJS](https://github.com/lanceli/cnodejs-ionic) ## The mobile app of [https://cnodejs.org](https://cnodejs.org)
-* [Pocket Lines · Mallorca](https://github.com/gsabater/Pocket-Lines) ## Transports app for Palma de Mallorca
-* [Convergence](https://github.com/GrumpyWizards/Convergence) ## A fun game
+* [CNodeJS](https://github.com/lanceli/cnodejs-ionic) - The mobile app of [https://cnodejs.org](https://cnodejs.org)
+* [Pocket Lines · Mallorca](https://github.com/gsabater/Pocket-Lines) - Transports app for Palma de Mallorca
+* [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game
 * [Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)
 
 ## Books
 
 * [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
 * [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
-
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
-
-
-# Awesome Ionic 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-An "awesome" list of the Ionic 2 resources 
-
-## Ionic 2
-> "Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies."
-
-## Current Ionic 2 version: 
-[![npm version](https://badge.fury.io/js/ionic-framework.svg)](https://badge.fury.io/js/ionic-framework)
-
 
 ## Official Resources
 * [Site](http://ionicframework.com/)
@@ -195,17 +182,6 @@ An "awesome" list of the Ionic 2 resources
 * [Ionic Media Player](https://github.com/ionic2blueprints/media-player)
 * [Ionic Social App](https://github.com/ionic2blueprints/social-app)
 
-## Contribute
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
-
-
-#Awesome Ionic
-A curated list of awesome Ionic libraries, resources and solutions.
-
-## Table of Contents
-
-
 ## General
 * [Official Website](http://ionicframework.com)
 * [Documents](http://ionicframework.com/docs/)
@@ -218,12 +194,12 @@ A curated list of awesome Ionic libraries, resources and solutions.
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 
 ## Tools
-* [Ionic Cli](https://www.npmjs.com/package/ionic) ## The Ionic command line utility
-* [Ionic box](https://github.com/driftyco/ionic-box) ## Vagrant box for ionic
-* [Ionicons](http://ionicons.com/) ## The premium icon font for Ionic
-* [ngCordova](http://ngcordova.com/) ## A collection of AngularJS extensions on top of the Cordova API
-* [Ionic View](http://apps.ionic.io/view-app) ## Test and share your ionic app on iPhone without needing a Mac
-* [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) ## Yeoman generator for Ionic
+* [Ionic Cli](https://www.npmjs.com/package/ionic) - The Ionic command line utility
+* [Ionic box](https://github.com/driftyco/ionic-box) - Vagrant box for ionic
+* [Ionicons](http://ionicons.com/) - The premium icon font for Ionic
+* [ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API
+* [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone without needing a Mac
+* [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for Ionic
 * [Sublime text Plugin] (https://github.com/imsingh/ionic-sublime-plugin)
 
 ## Social login / oAuth
@@ -255,9 +231,9 @@ A curated list of awesome Ionic libraries, resources and solutions.
 * [Belgian Beer Explorer] (http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/)
 * [Ionic Hacker News](https://github.com/driftyco/front-page)
 * [Ionic Weather App](https://github.com/driftyco/ionic-weather)
-* [Convergence](https://github.com/GrumpyWizards/Convergence) ## A fun game
-* [Protokit](https://github.com/Alexintosh/Protokit) ## A prototype kit
-* [Ionic chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) ## Chat application built using ionic and socket.io
+* [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game
+* [Protokit](https://github.com/Alexintosh/Protokit) - A prototype kit
+* [Ionic chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application built using ionic and socket.io
 
 ## Books
 * [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
@@ -269,9 +245,9 @@ A curated list of awesome Ionic libraries, resources and solutions.
 ## Backend as a Service
 * [Firebase Example](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)
 * [Syncing Data With Firebase](https://www.thepolyglotdeveloper.com/2014/12/syncing-data-firebase-using-ionic-framework/)
-* [Parse REST API tutorial](http://www.htmlxprs.com/post/12/tutorial-on-using-parse-rest-api-and-ionic-framework-together) ## Parse tutorial
-* [Parse Sample App](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) ## using [angular-parse lib](https://github.com/jimrhoskins/angular-parse)
- * [Windows Azure Mobile Services Backend](https://github.com/aidancasey/Azure-Ionic-App) ## sample todo list app storing data in windows azure
+* [Parse REST API tutorial](http://www.htmlxprs.com/post/12/tutorial-on-using-parse-rest-api-and-ionic-framework-together) - Parse tutorial
+* [Parse Sample App](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) - using [angular-parse lib](https://github.com/jimrhoskins/angular-parse)
+ * [Windows Azure Mobile Services Backend](https://github.com/aidancasey/Azure-Ionic-App) - sample todo list app storing data in windows azure
 
 ## Cordova plugins you should use
 * [Universal URL / Deep linking] (https://github.com/nordnet/cordova-universal-links-plugin)
@@ -283,7 +259,7 @@ A curated list of awesome Ionic libraries, resources and solutions.
 * [Accordion list](http://codepen.io/ionic/pen/uJkCz)
 * [Material design](https://material.angularjs.org/)
 * [Angular Material codepen example] (http://codepen.io/itamarCohen/pen/gbgxaJ)
-* [autoListDivider](https://github.com/andrewmcgivery/ionic-ion-autoListDivider) ## automatically adding in list dividers for an ng-repeat.
+* [autoListDivider](https://github.com/andrewmcgivery/ionic-ion-autoListDivider) - automatically adding in list dividers for an ng-repeat.
 * [Tinder style swipe Cards] (http://devdactic.com/optimize-tinder-cards/)
 * [Move.js CSS3 Animation framework](https://github.com/visionmedia/move.js)
 * [Ionic Tabbed Slidebox](https://github.com/saravmajestic/ionic/tree/master/tabbedSlideBox)
@@ -314,3 +290,7 @@ A curated list of awesome Ionic libraries, resources and solutions.
 * [Icons Subway](https://github.com/pixle/subway)
 * [Angular translate](http://angular-translate.github.io/)
 * [jsPDF](https://parall.ax/products/jspdf) Generate pdf in javascript
+
+## Contribute
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
