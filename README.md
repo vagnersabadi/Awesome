@@ -3,14 +3,7 @@
 
 > A collection of awesome [IonicFramework](http://ionicframework.com) resources and shiny things.
 > "Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies."
-
-## Current Ionic 2 version: 
-[![npm version](https://badge.fury.io/js/ionic-framework.svg)](https://badge.fury.io/js/ionic-framework)
-
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-* https://github.com/ionic-toolbox/awesome-ionic_lanceli.git
  
-
 ## General
 
 * [Official Website](http://ionicframework.com)
@@ -144,16 +137,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
 
 ## Database
+
 * [SQLlite] (https://www.thepolyglotdeveloper.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)
 * [Sync Data Using PouchDB](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/)
 
 ## Components
+
 * [Date picker](https://github.com/rajeshwarpatlolla/ionic-datepicker)
 * [How to Create a Sliding Delete Button for Lists](http://www.joshmorony.com/ionic-2-how-to-create-a-sliding-delete-button-for-lists/)
 * [Creating a Sliding Introduction Component in Ionic 2](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/)
 * [How to Create a Custom Loading Component in Ionic 2](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/)
 
 ## Open source apps and Examples
+
 * [Belgian Beer Explorer](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/)
 * [CNodeJS](https://github.com/lanceli/cnodejs-ionic) - The mobile app of [https://cnodejs.org](https://cnodejs.org)
 * [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game
