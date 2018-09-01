@@ -22,16 +22,16 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)|||
 |[Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)|||
 
-##Tools
+## Tools
 
 | Link | Description|   |   |
 | :------------ | ------------- | - | - |  
-|[Ionic Cli](https://www.npmjs.com/package/ionic) - The Ionic command line utility|||
-|[Ionicons](http://ionicons.com/) - The premium icon font for Ionic|||
-|[ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API|||
-|[Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone without needing a Mac|||
-|[Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for Ionic|||
-|[Ionic box](https://github.com/ionic-team/ionic-box) - Vagrant box for ionic|||
+|[Ionic Cli](https://www.npmjs.com/package/ionic)|The Ionic command line utility||
+|[Ionicons](http://ionicons.com/)|The premium icon font for Ionic||
+|[ngCordova](http://ngcordova.com/)|A collection of AngularJS extensions on top of the Cordova API||
+|[Ionic View](http://apps.ionic.io/view-app)|Test and share your ionic app on iPhone without needing a Mac|||
+|[Ionic Framework generator](https://github.com/diegonetto/generator-ionic)|Yeoman generator for Ionic|||
+|[Ionic box](https://github.com/ionic-team/ionic-box)|Vagrant box for ionic|||
 |[Sublime text Plugin](https://github.com/imsingh/ionic-sublime-plugin)|||
 |[Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)|||
 |[Vim-ionic2](https://github.com/akz92/vim-ionic2)|||
@@ -40,7 +40,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 | Link | Description|   |   |
 | :------------ | ------------- | - | - |
-|[Ionic Adventures](https://github.com/juarezpaf/ionic-adventures) - List of interesting links|||
+|[Ionic Adventures](https://github.com/juarezpaf/ionic-adventures)|List of interesting links|||
 
 ## Tutorials and articles
 
