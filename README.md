@@ -21,11 +21,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Community Forum|[Ionic 3](http://forum.ionicframework.com/)||
 |Ionic IRC|[Ionic 3](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)||
 |Ionic Youtube Channel|[Ionic 3](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)||
-
-## Links
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
+|<h1>Links</h1>||
 |Ionic Adventures|[Ionic 3](https://github.com/juarezpaf/ionic-adventures)|List of interesting links||
 
 ## Tools
