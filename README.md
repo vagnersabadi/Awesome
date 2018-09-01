@@ -9,7 +9,7 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 | Link | Description|   |   |
 | :------------ | ------------- | - | - |
-|[Official Website](http://ionicframework.com)| | |
+|Official Website|[Ionic 3](http://ionicframework.com)| | |
 |[Documents](http://ionicframework.com/docs/)|||
 |[Github Repository](https://github.com/ionic-team/ionic)|||
 |[Blog](http://blog.ionic.io/)|||
@@ -21,6 +21,12 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[Community Forum](http://forum.ionicframework.com/)|||
 |[Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)|||
 |[Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)|||
+
+## Links
+
+| Link | Description|   |   |
+| :------------ | ------------- | - | - |
+|[Ionic Adventures](https://github.com/juarezpaf/ionic-adventures)|List of interesting links|||
 
 ## Tools
 
@@ -35,12 +41,6 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[Sublime text Plugin](https://github.com/imsingh/ionic-sublime-plugin)|||
 |[Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)|||
 |[Vim-ionic2](https://github.com/akz92/vim-ionic2)|||
-
-## Links
-
-| Link | Description|   |   |
-| :------------ | ------------- | - | - |
-|[Ionic Adventures](https://github.com/juarezpaf/ionic-adventures)|List of interesting links|||
 
 ## Tutorials and articles
 
@@ -263,9 +263,9 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[Header that shrinks](https://github.com/ionic-team/ionic-ion-header-shrink)|||
 |[Accordion list](http://codepen.io/ionic/pen/uJkCz)|||
 |[Material design](https://material.angularjs.org/)|||
-|[Angular Material codepen example] (http://codepen.io/itamarCohen/pen/gbgxaJ)|||
+|[Angular Material codepen example](http://codepen.io/itamarCohen/pen/gbgxaJ)|||
 |[autoListDivider](https://github.com/andrewmcgivery/ionic-ion-autoListDivider)|Automatically adding in list dividers for an ng-repeat.||
-|[Tinder style swipe Cards] (http://devdactic.com/optimize-tinder-cards/)|||
+|[Tinder style swipe Cards](http://devdactic.com/optimize-tinder-cards/)|||
 |[Move.js CSS3 Animation framework](https://github.com/visionmedia/move.js)|||
 |[Ionic Tabbed Slidebox](https://github.com/saravmajestic/ionic/tree/master/tabbedSlideBox)|||
 |[Ionic directive for a location dropdown that utilizes google maps](https://github.com/israelidanny/ion-google-place)|||
