@@ -5,11 +5,10 @@
 
 # Credits goes to
 
-https://github.com/theho/awesome-ionic2
-https://github.com/Alexintosh/Awesome-Ionic
-https://github.com/candelibas/awesome-ionic
-https://github.com/lanceli/awesome-ionic
-awesome-ionic_lanceli
+* https://github.com/theho/awesome-ionic2
+* https://github.com/Alexintosh/Awesome-Ionic
+* https://github.com/candelibas/awesome-ionic
+* https://github.com/lanceli/awesome-ionic
 
 
 | Ionic 3 | Ionic 4 | Description |
