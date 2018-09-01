@@ -66,7 +66,6 @@
 |[Upload Files To A Remote Server](https://www.thepolyglotdeveloper.com/2015/01/upload-files-remote-server-using-ionic-framework/)|||
 |[Using Factories and Web Services](http://mcgivery.com/ionic-using-factories-and-web-services-for-dynamic-data/)|||
 |[Using Typescript with Ionic](https://weblogs.asp.net/soever/ionictypescript)|||
-
 |[Ionic Framework Tutorial form ccoenraets](http://ccoenraets.github.io/ionic-tutorial/)|||
 |[Installing Ionic](http://ccoenraets.github.io/ionic-tutorial/install-ionic.html)|||
 |[Starting the Node Server](http://ccoenraets.github.io/ionic-tutorial/start-node-server.html)|||
