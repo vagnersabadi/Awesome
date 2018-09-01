@@ -1,7 +1,7 @@
 
 # Awesome Ionic
 
-View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this repository
+View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repository
 
 > A collection of awesome [IonicFramework|[Ionic 3](http://ionicframework.com) resources and shiny things.
 
