@@ -9,18 +9,18 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 
 | Description| Ionic 3 | Ionic 4 |
 | :------------ | - | - | - |
-|Official Website|[Ionic 3](http://ionicframework.com)| | |
-|[Documents](http://ionicframework.com/docs/)|||
-|[Github Repository](https://github.com/ionic-team/ionic)|||
-|[Blog](http://blog.ionic.io/)|||
-|[Getting Started Guide](http://ionicframework.com/docs/getting-started/)|||
-|[Ionic Native](https://github.com/ionic-team/ionic-native/)|||
-|[Showcase](http://showcase.ionicframework.com/)|||
-|[Learn Ionic](http://learn.ionicframework.com/)|||
-|[Ionic on CodePen](http://codepen.io/ionic/)|||
-|[Community Forum](http://forum.ionicframework.com/)|||
-|[Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)|||
-|[Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)|||
+|Official Website|[Ionic 3](http://ionicframework.com)| |
+|[Documents](http://ionicframework.com/docs/)||
+|[Github Repository](https://github.com/ionic-team/ionic)||
+|[Blog](http://blog.ionic.io/)||
+|[Getting Started Guide](http://ionicframework.com/docs/getting-started/)||
+|[Ionic Native](https://github.com/ionic-team/ionic-native/)||
+|[Showcase](http://showcase.ionicframework.com/)||
+|[Learn Ionic](http://learn.ionicframework.com/)||
+|[Ionic on CodePen](http://codepen.io/ionic/)||
+|[Community Forum](http://forum.ionicframework.com/)||
+|[Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)||
+|[Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)||
 
 ## Links
 
