@@ -15,14 +15,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Official Website](http://ionicframework.com)
 * [Documents](http://ionicframework.com/docs/)
-* [Github Repository](https://github.com/driftyco/ionic)
+* [Github Repository](https://github.com/ionic-team/ionic)
+* [Blog](http://blog.ionic.io/)
+* [Getting Started Guide](http://ionicframework.com/docs/getting-started/)
+* [Ionic Native](https://github.com/ionic-team/ionic-native/)
 * [Showcase](http://showcase.ionicframework.com/)
 * [Learn Ionic](http://learn.ionicframework.com/)
 * [Ionic on CodePen](http://codepen.io/ionic/)
 * [Community Forum](http://forum.ionicframework.com/)
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
-  
 
 ## Tools
 
@@ -31,7 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API
 * [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone without needing a Mac
 * [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for Ionic
-* [Ionic box](https://github.com/driftyco/ionic-box) - Vagrant box for ionic
+* [Ionic box](https://github.com/ionic-team/ionic-box) - Vagrant box for ionic
 * [Sublime text Plugin](https://github.com/imsingh/ionic-sublime-plugin)
 * [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
 * [Vim-ionic2](https://github.com/akz92/vim-ionic2)
@@ -74,34 +76,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   * [Routing](http://ccoenraets.github.io/ionic-tutorial/angular-ui-router.html)
   * [Building the Project](http://ccoenraets.github.io/ionic-tutorial/build-ionic-project.html)
   * [Facebook Integration](http://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html)
-
-
-## Examples and boilerplates
-
-* Starter template
-  * [tabs](https://github.com/driftyco/ionic-starter-tabs)
-  * [sidemenu](https://github.com/driftyco/ionic-starter-sidemenu)
-  * [blank](https://github.com/driftyco/ionic-starter-blank)
-  * [salesforce](https://github.com/driftyco/ionic-starter-salesforce)
-  * [maps](https://github.com/driftyco/ionic-starter-maps)
-* [Ionic Hacker News](https://github.com/driftyco/front-page)
-* [Ionic Weather App](https://github.com/driftyco/ionic-weather)
-* [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
-* [Ionic Chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application made using ionic and socketio
-* [Ionic 2 Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
-
-
-## Official Resources
-* [Site](http://ionicframework.com/)
-* [Blog](http://blog.ionic.io/)
-* [Documentation](http://ionicframework.com/docs/v2/)
-* [Getting Started Guide](http://ionicframework.com/docs/v2/getting-started/)
-* [Ionic Native](https://github.com/driftyco/ionic-native/)
-* [Community Forum](http://forum.ionicframework.com/)
-* [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
-* [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
-* [Showcase](http://showcase.ionicframework.com/)
-* [GitHub Repo](https://github.com/driftyco/ionic/tree/2.0)
 
 ## Ionic 2 Fundamentals
 * [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
@@ -152,7 +126,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## i18n & l10n
 * [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)
 
-
 ## Video Tutorials
 * [Ionic 2 Quickstart](https://www.udemy.com/ionic-2-quickstart/)
 * [Build a Todo App from Scratch with Ionic 2](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)
@@ -180,26 +153,35 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Creating a Sliding Introduction Component in Ionic 2](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/)
 * [How to Create a Custom Loading Component in Ionic 2](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/)
 
-## Open source apps
+## Open source apps and Examples
 * [Belgian Beer Explorer](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/)
 * [CNodeJS](https://github.com/lanceli/cnodejs-ionic) - The mobile app of [https://cnodejs.org](https://cnodejs.org)
 * [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game
+* [Ionic 2 Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 * [Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)
-* [Ionic chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application built using ionic and socket.io
+* [Ionic Chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application made using ionic and socketio
 * [Ionic Conference App based on Lanyrd API](https://github.com/ionic2blueprints/conference-app)
-* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
+* [Ionic Conference App](https://github.com/ionic-team/ionic-conference-app)
 * [Ionic Ecommerce App](https://github.com/ionic2blueprints/ionic2-marketcloud)
 * [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat)
-* [Ionic Hacker News](https://github.com/driftyco/front-page)
+* [Ionic Hacker News](https://github.com/ionic-team/front-page)
 * [Ionic Media Player](https://github.com/ionic2blueprints/media-player)
 * [Ionic Social App](https://github.com/ionic2blueprints/social-app)
 * [Ionic Stock Tracking App](https://github.com/ionic2blueprints/ionic2-stockmarket)
-* [Ionic Weather App](https://github.com/driftyco/ionic-weather)
+* [Ionic Weather App](https://github.com/ionic-team/ionic-weather)
 * [Ionic Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client)
 * [IonicRealty](https://github.com/ccoenraets/ionic2-realty)
 * [Pocket Lines · Mallorca](https://github.com/gsabater/Pocket-Lines) - Transports app for Palma de Mallorca
 * [Protokit](https://github.com/Alexintosh/Protokit) - A prototype kit
+* [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
   
+* Starter template
+  * [tabs](https://github.com/ionic-team/ionic-starter-tabs)
+  * [sidemenu](https://github.com/ionic-team/ionic-starter-sidemenu)
+  * [blank](https://github.com/ionic-team/ionic-starter-blank)
+  * [salesforce](https://github.com/ionic-team/ionic-starter-salesforce)
+  * [maps](https://github.com/ionic-team/ionic-starter-maps)
+ 
 ## Books
 * [Full Stack Mobile App with Ionic Framework](http://www.amazon.it/Stack-Mobile-Ionic-Framework-English-ebook/dp/B00QF1H380/ref=sr_1_1?ie=UTF8&qid=1423560887&sr=8-1&keywords=full+stack+ionic)
 * [Getting Started with Ionic](http://www.amazon.it/Getting-Started-Ionic-Rahat-Khanna-ebook/dp/B016MWRF16/ref=sr_1_1?ie=UTF8&qid=1458563408&sr=8-1&keywords=Getting+Started+with+Ionic)
@@ -231,7 +213,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Customization
 * [Ionic material] (https://github.com/zachsoft/Ionic-Material)
-* [Header that shrinks](https://github.com/driftyco/ionic-ion-header-shrink)
+* [Header that shrinks](https://github.com/ionic-team/ionic-ion-header-shrink)
 * [Accordion list](http://codepen.io/ionic/pen/uJkCz)
 * [Material design](https://material.angularjs.org/)
 * [Angular Material codepen example] (http://codepen.io/itamarCohen/pen/gbgxaJ)

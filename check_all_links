@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cat README.md 		| \
+grep -E '^\*'		| \
+tr '()' @ 		| \
+cut -d@ -f2		| \
+sort			| \
+uniq -c			| \
+sort -n			| \
+cat
