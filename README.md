@@ -22,18 +22,18 @@ View [Github pages](https://ionic-toolbox.github.io/Awesome/) for this repositor
 |[Ionic 3](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)||Ionic IRC|
 |[Ionic 3](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)||Ionic Youtube Channel|
 |**Links**||
-|List of interesting links||Ionic Adventures|[Ionic 3](https://github.com/juarezpaf/ionic-adventures)|
-|<h1>Tools</h1>|| 
-|The Ionic command line utility||Ionic Cli|[Ionic 3](https://www.npmjs.com/package/ionic)|
-|The premium icon font for Ionic||Ionicons|[Ionic 3](http://ionicons.com/)|
-|A collection of AngularJS extensions on top of the Cordova API||ngCordova|[Ionic 3](http://ngcordova.com/)|
-|Test and share your ionic app on iPhone without needing a Mac||Ionic View|[Ionic 3](http://apps.ionic.io/view-app)|
-|Yeoman generator for Ionic||Ionic Framework generator|[Ionic 3](https://github.com/diegonetto/generator-ionic)|
-|Vagrant box for ionic||Ionic box|[Ionic 3](https://github.com/ionic-team/ionic-box)|
+[Ionic 3](https://github.com/juarezpaf/ionic-adventures)| |List of interesting links||Ionic Adventures|
+|**Tools**|| 
+|[Ionic 3](https://www.npmjs.com/package/ionic)||The Ionic command line utility||
+|[Ionic 3](http://ionicons.com/)||Ionicons - The premium icon font for Ionic||
+|[Ionic 3](http://ngcordova.com/)||A collection of AngularJS extensions on top of the Cordova API|
+|[Ionic 3](http://apps.ionic.io/view-app)||Ionic View - Test and share your ionic app on iPhone without needing a Mac||
+|[Ionic 3](https://github.com/diegonetto/generator-ionic)||Yeoman generator for Ionic||Ionic Framework generator|
+|[Ionic 3](https://github.com/ionic-team/ionic-box)||Vagrant box for ionic||
 |[Ionic 3](https://github.com/imsingh/ionic-sublime-plugin)||Sublime text Plugin|
 |[Ionic 3](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)||Ionic2-vscode|
 |[Ionic 3](https://github.com/akz92/vim-ionic2)||Vim-ionic2|
-|<h1>Tutorials and articles</h1>||
+|**Tutorials and articles**||
 |[Ionic 3](http://ionicframework.com/blog/authentication-in-ionic/)||Adding Auth to your Ionic app in 5 mins with Auth0|
 |[Ionic 3](http://melvin0008.github.io/blog/ionic-socketio-chat/)||Build your own chat app|
 |[Ionic 3](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)||Creating a Firebase Powered End to End Ionic Application|
