@@ -20,7 +20,10 @@
 |[Community Forum](http://forum.ionicframework.com/)|||
 |[Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)|||
 |[Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)|||
-|Tools<td colspan=4>
+
+##Tools
+| Link | Description|   |   |
+| :------------ | ------------- | - | - |  
 |[Ionic Cli](https://www.npmjs.com/package/ionic) - The Ionic command line utility|||
 |[Ionicons](http://ionicons.com/) - The premium icon font for Ionic|||
 |[ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API|||
