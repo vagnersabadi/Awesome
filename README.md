@@ -171,7 +171,7 @@
 * [Protokit](https://github.com/Alexintosh/Protokit) - A prototype kit
 * [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
   
-# #Starter template
+## Starter template
 * [tabs](https://github.com/ionic-team/ionic-starter-tabs)
 * [sidemenu](https://github.com/ionic-team/ionic-starter-sidemenu)
 * [blank](https://github.com/ionic-team/ionic-starter-blank)
