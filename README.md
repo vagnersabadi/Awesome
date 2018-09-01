@@ -5,7 +5,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 
 > A collection of awesome [IonicFramework|[Ionic 3](http://ionicframework.com) resources and shiny things.
 
-## General
+|<h1>General</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -23,11 +23,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Ionic Youtube Channel|[Ionic 3](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)||
 |<h1>Links</h1>||
 |Ionic Adventures|[Ionic 3](https://github.com/juarezpaf/ionic-adventures)|List of interesting links||
-
-## Tools
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |  
+|<h1>Tools</h1>|| 
 |Ionic Cli|[Ionic 3](https://www.npmjs.com/package/ionic)|The Ionic command line utility||
 |Ionicons|[Ionic 3](http://ionicons.com/)|The premium icon font for Ionic||
 |ngCordova|[Ionic 3](http://ngcordova.com/)|A collection of AngularJS extensions on top of the Cordova API||
@@ -37,11 +33,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Sublime text Plugin|[Ionic 3](https://github.com/imsingh/ionic-sublime-plugin)||
 |Ionic2-vscode|[Ionic 3](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)||
 |Vim-ionic2|[Ionic 3](https://github.com/akz92/vim-ionic2)||
-
-## Tutorials and articles
-
-| Description| Ionic 3 | Ionic 4 |
-| :- | :- | :- |
+|<h1>Tutorials and articles</h1>||
 |Adding Auth to your Ionic app in 5 mins with Auth0|[Ionic 3](http://ionicframework.com/blog/authentication-in-ionic/)||
 |Build your own chat app|[Ionic 3](http://melvin0008.github.io/blog/ionic-socketio-chat/)||
 |Creating a Firebase Powered End to End Ionic Application|[Ionic 3](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)||
@@ -74,7 +66,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Building the Project|[Ionic 3](http://ccoenraets.github.io/ionic-tutorial/build-ionic-project.html)||
 |Facebook Integration|[Ionic 3](http://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html)||
 
-## Ionic 2 Fundamentals
+|<h1>Ionic 2 Fundamentals</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -90,14 +82,14 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Understanding Zones and Change Detection|[Ionic 3](http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)||
 |Understanding Ionic 2: Pipe|[Ionic 3](http://mcgivery.com/understanding-ionic-2-pipe/)||
 
-## Theming
+|<h1>Theming</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
 |A Guide to Styling an Ionic 2 Application|[Ionic 3](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)||
 |Use Font Awesome Icons In Your Ionic 2 Android And iOS App|[Ionic 3](https://www.thepolyglotdeveloper.com/2016/03/use-font-awesome-icons-in-your-ionic-2-android-and-ios-app/)||
 
-## Authentication
+|<h1>Authentication</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -109,7 +101,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Successful OAuth Social Login with Firebase|[Ionic 3](http://www.gajotres.net/ionic-2-succesfull-oauth-social-login-with-firebase/)||
 |Using An Oauth 2.0 Service Within An Ionic 2 Mobile App|[Ionic 3](https://www.thepolyglotdeveloper.com/2016/01/using-an-oauth-2-0-service-within-an-ionic-2-mobile-app/)||
 
-## Unit Testing
+|<h1>Unit Testing</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -119,7 +111,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Karma UnitTest|[Ionic 3](http://forum.ionicframework.com/t/ionic-and-karma-unittest/8799)||
 |Appium|[Ionic 3](http://appium.io/) an open source test automation framework||
 
-## Backend as a Service
+|<h1>Backend as a Service</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -135,13 +127,13 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Using Http to Fetch Remote Data from a Server in Ionic 2|[Ionic 3](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/)||
 |Windows Azure Mobile Services Backend|[Ionic 3](https://github.com/aidancasey/Azure-Ionic-App)|Sample todo list app storing data in windows azure||
 
-## i18n & l10n
+|<h1>i18n & l10n</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
 |Internationalize and Localize Your App With Angular 2|[Ionic 3](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)||
 
-## Video Tutorials
+|<h1>Video Tutorials</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -150,7 +142,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Ionic 2: How to Use Google Maps & Geolocation|[Ionic 3](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/)||
 |Ionic 2 in One Hour|[Ionic 3](http://courses.devdactic.com/courses/ionic-2-in-one-hour?product_id=104238)||
 
-## Social login / oAuth
+|<h1>Social login / oAuth</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -158,21 +150,21 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |auth0.com] (https://auth0.com/)|Free until 100 users||
 |Facebook Integration|[Ionic 3](http://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html)||
 
-## Push Notifications
+|<h1>Push Notifications</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
 |Sample App|[Ionic 3](http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/)||
 |Push Notification Sample App|[Ionic 3](https://github.com/hollyschinsky/PushNotificationSample)||
 
-## Database
+|<h1>Database</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
 |SQLlite] (https://www.thepolyglotdeveloper.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)||
 |Sync Data Using PouchDB|[Ionic 3](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/)||
 
-## Components
+|<h1>Components</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -181,7 +173,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Creating a Sliding Introduction Component in Ionic 2|[Ionic 3](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/)||
 |How to Create a Custom Loading Component in Ionic 2|[Ionic 3](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/)||
 
-## Open source apps and examples
+|<h1>Open source apps and examples</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -206,7 +198,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Protokit|[Ionic 3](https://github.com/Alexintosh/Protokit)|A prototype kit||
 |Push Notification Sample App|[Ionic 3](https://github.com/hollyschinsky/PushNotificationSample)||
 
-## Starter template
+|<h1>Starter template</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -216,7 +208,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |salesforce|[Ionic 3](https://github.com/ionic-team/ionic-starter-salesforce)||
 |maps|[Ionic 3](https://github.com/ionic-team/ionic-starter-maps)||
 
-## Books
+|<h1>Books</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -228,7 +220,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Ionic in Action|[Ionic 3](http://www.manning.com/wilken/?a_aid=ionicinaction)||
 |learning ionic|[Ionic 3](http://www.amazon.it/Learning-Ionic-Arvind-Ravulavaru/dp/1783552603/ref=sr_1_1?ie=UTF8&qid=1458563232&sr=8-1&keywords=Learning+Ionic)||
 
-## Cordova plugins
+|<h1>Cordova plugins</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -251,7 +243,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Use SQLite In Ionic 2 Instead Of Local Storage|[Ionic 3](https://www.thepolyglotdeveloper.com/2015/12/use-sqlite-in-ionic-2-instead-of-local-storage/)||
 |Using Cordova Plugins in Ionic 2 with Ionic Native|[Ionic 3](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/)||
 
-## Customization
+|<h1>Customization</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -269,7 +261,7 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |32 Ionic Popup Animations|[Ionic 3](https://github.com/kevincobain2000/ionic-animated-popup)||
 |Ionic Photo Browser|[Ionic 3](https://github.com/kevincobain2000/ionic-photo-browser)||
 
-## Misc
+|<h1>Misc</h1>||
 
 | Description| Ionic 3 | Ionic 4 |
 | :- | :- | :- |
@@ -279,6 +271,6 @@ View [Github pages|[Ionic 3](https://ionic-toolbox.github.io/Awesome/) for this 
 |Angular translate|[Ionic 3](http://angular-translate.github.io/)||
 |jsPDF|[Ionic 3](https://parall.ax/products/jspdf)|Generate pdf in javascript||
 
-## Contribute
+|<h1>Contribute</h1>||
 Contributions welcome! Read the [contribution guidelines|[Ionic 3](CONTRIBUTING.md) first.||
 
